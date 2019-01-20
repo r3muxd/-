@@ -23,6 +23,6 @@
 ‌
 ‌
 ‌
-GLaDOS v1.09 (c) 1982 Aperture Science
+GaYDOS v1.09 (c) 1982 Aperture Science
 ‌
 WARNING: Auto-login is enabled.
